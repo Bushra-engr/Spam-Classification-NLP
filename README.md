@@ -31,10 +31,4 @@ The pipeline generates a `spam_results.png` dashboard:
 2. **Spam Class Metrics**: Deep dive into how the models handle the minority class.
 3. **Radar Chart**: Displays the balance between all four metrics simultaneously.
 
-## 📝 How to Use
-1. Ensure `spaCy`'s English model is installed: `python -m spacy download en_core_web_sm`.
-2. Run the preprocessing script to clean and lemmatize text.
-3. Execute the training script to generate the model and performance plots.
 
----
-*Created by an Aspiring AIML Intern 🚀*
